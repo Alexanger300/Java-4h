@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 4Hmain {
+public class Hmain {
 
     private static Scanner scanner = new Scanner(System.in);
 
