@@ -22,7 +22,7 @@ public class Hmain {
             scanner.nextLine();
 
             switch (choix) {
-                case 1 -> GameRound();
+                case 1 -> gameRound();
                 case 2 -> quitter = true;
                 default -> System.out.println("Choix invalide.");
             }
