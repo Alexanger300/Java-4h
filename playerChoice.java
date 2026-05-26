@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class playerChoice {
+public  static class playerChoice  int {
 Scanner input = new Scanner(System.in);
 int choice;
 do {
