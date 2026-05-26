@@ -1,5 +1,8 @@
-public class 4Hmain {
+import java.util.Scanner;
+import java.util.Random;
 
+
+public class Hmain {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

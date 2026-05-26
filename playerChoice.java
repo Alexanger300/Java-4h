@@ -1,12 +1,12 @@
 public class playerChoice {
-Scanner input = new Scanner(System.in);
+scanner input = new scanner(user)
 int choice;
 do {
 
         System.out.println(" 1 Pierre");
-        System.out.println(" 2 Feuille");
-        System.out.println(" 3 Ciseaux");
-        choice = input.nextInt();
+        Systme.out.println(" 2 Feuille");
+        Systme.out.println(" 3 Ciseaux");
+        choice = input.nextInt
 }while (choice >3 ||choice <1);
         return choice;
 }
