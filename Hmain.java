@@ -54,6 +54,7 @@ public class Hmain {
         System.out.println("=== FIN ===");
     }
 
+<<<<<<< HEAD
     private static int playerChoice() {
         System.out.println("Choisissez: 1. Pierre  2. Papier  3. Ciseaux");
         System.out.print("Votre choix : ");
@@ -73,3 +74,6 @@ public class Hmain {
         return 2; 
     }
 }
+=======
+}
+>>>>>>> 83adaf3d4e43fcfca532b9c27b6d411153a60bae
