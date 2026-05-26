@@ -1,5 +1,5 @@
 public class playerChoice {
-scanner input = new scanner(user)
+Scanner input = new Scanner(System.in);
 int choice;
 do {
 

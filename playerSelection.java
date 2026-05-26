@@ -1,4 +1,4 @@
-public static String playersSelection(int selection){
+public static String playerSelection(int selection){
     String object="";
     switch (selection){
         case 1:
