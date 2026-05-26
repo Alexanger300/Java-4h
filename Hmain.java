@@ -34,7 +34,7 @@ public class Hmain {
                                 System.out.println("L'ordinateur gagne ce round!");
                                 break;
                             default:
-                                System.out.println("C'est une égalité!");
+                                System.out.println("C'est une egalite!");
                         }
                         System.out.println("Score actuel Joueur: " + playerScore + " | Ordinateur: " + npcScore);
                     }
